@@ -38,4 +38,3 @@ def chatbot_response(message):
 user_input = input("Ask the chatbot: ")
 response = chatbot_response(user_input)
 print(response)
-
